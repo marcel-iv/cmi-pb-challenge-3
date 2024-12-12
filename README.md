@@ -1,5 +1,5 @@
 # Extremely Naive Tree Predictor (ENT Predictor)
-Script and research repository for the 3rd CMI-PB Prediction Challenge supervised by the Wimmers Lab at the University of Tübingen. The challenge website can be found [here.](https://www.cmi-pb.org/blog/prediction-challenge-overview/)
+Script and research repository for the 3rd CMI-PB Prediction Challenge supervised by the Wimmers Lab at the University of Tübingen. The challenge website can be found [here.](https://www.cmi-pb.org/blog/prediction-challenge-overview/) We used random forest regression to produce our results.
 
 We used python to write our scripts and [scikit-learn](https://scikit-learn.org/stable/) for machine learning.
 
