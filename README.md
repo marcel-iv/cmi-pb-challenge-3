@@ -1,6 +1,8 @@
 # Overview
 Script and research repository for the 3rd CMI-PB Prediction Challenge supervised by the Wimmers Lab at the University of Tübingen. The challenge website can be found [here.](https://www.cmi-pb.org/blog/prediction-challenge-overview/)
 
+We used python to write our scripts and [scikit-learn](https://scikit-learn.org/stable/) for machine learning.
+
 ## Completed Challenge Tasks
 We submitted results for tasks one and two of the prediction challenge, see [here.](https://www.cmi-pb.org/blog/prediction-challenge-overview/#Prediction%20challenge%20tasks) The submission can be found in the [submission](06_Submission) folder.
 
