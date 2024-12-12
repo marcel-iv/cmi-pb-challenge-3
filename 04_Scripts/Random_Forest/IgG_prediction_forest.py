@@ -12,7 +12,6 @@ from sklearn import metrics
 from sklearn.feature_selection import VarianceThreshold, SelectKBest, SelectPercentile, r_regression
 
 # Data preprocessing, copied from the server
-# home/ubuntu/marcel/02_cmi_pb/01_scripts/demographic_PVMCs_batchCorrected_wide.tsv
 data_read = pd.read_csv("~/03_Data/demographic_IgG_PBMC_cytokine_both.tsv", sep="\t")
 
 data = data_read
