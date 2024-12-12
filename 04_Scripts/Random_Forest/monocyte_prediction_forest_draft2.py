@@ -12,7 +12,7 @@ from sklearn import metrics
 from sklearn.feature_selection import VarianceThreshold, SelectKBest, SelectPercentile, r_regression
 
 # Data preprocessing, copied from the server
-data_read = pd.read_csv("~/03_Data/demographic_IgG_PBMC_cytokine.tsv", sep="\t")
+data_read = pd.read_csv("../../03_Data/demographic_IgG_PBMC_cytokine.tsv", sep="\t")
 
 data = data_read
 
