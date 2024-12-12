@@ -19,7 +19,7 @@ We decided to try three approaches for the prediction:
 - Support Vector Regression ([Folder with Scripts](04_Scripts/Support_Vector_Regression))
 - Logistic Regression ([Folder with Scripts](04_Scripts/Logistic_Regression))
 
-Of these, the random forest regressor produced the highest spearman coefficient in our preliminary testing, so we decided to focus on it. 
+Of these, the random forest regressor produced the highest spearman coefficient in our preliminary testing, so we decided to focus on it. We used the random forest regressor from sci-kit learn and tuned it using a portion of the training data as validation data with the grid-search cross validation from sci-kit learn. From this we determined the optimal parameters based on the spearman coefficient of the results.
 
 # Results
 The results of the random forest predictions for the two tasks can be found in the [Results](05_Results) folder.
