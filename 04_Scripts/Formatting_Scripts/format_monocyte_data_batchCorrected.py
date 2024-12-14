@@ -39,7 +39,7 @@ print(data.columns.to_list())
 print(data_pbmc.columns.to_list())
 
 ## merge into demographic data, preserve all PBMC information, except for specimen_id of PBMC (to prevent duplicate)
-data = (data.merge(data_pbmc, left_on="specimen_id", right_on="specimen_id")
+data = (data.merge(data_pbmc, left_on="specimen_id", right_on="specimen_id", how="left")
        .reindex(columns=data.columns.to_list() + cell_types))
 
 
