@@ -1,0 +1,735 @@
+specimen_id	subject_id	actual_day_relative_to_boost	planned_day_relative_to_boost	specimen_type	visit	infancy_vac	biological_sex	ethnicity	race	year_of_birth	date_of_boost	dataset	timepoint
+1	1	-3	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset	0
+2	1	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset	1
+3	1	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset	3
+4	1	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset	7
+5	1	11	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset	14
+6	1	32	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1986-01-01	2016-09-12	2020_dataset	30
+11	2	1	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset	0
+12	2	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset	1
+13	2	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset	3
+14	2	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset	7
+15	2	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset	14
+16	2	31	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1968-01-01	2019-01-28	2020_dataset	30
+19	3	-3	0	Blood	1	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset	0
+20	3	1	1	Blood	2	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset	1
+21	3	3	3	Blood	3	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset	3
+22	3	7	7	Blood	4	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset	7
+23	3	14	14	Blood	5	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset	14
+24	3	30	30	Blood	6	wP	Female	Unknown	White	1983-01-01	2016-10-10	2020_dataset	30
+27	4	-7	0	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset	0
+28	4	1	1	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset	1
+29	4	3	3	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset	3
+30	4	8	7	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset	7
+31	4	14	14	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset	14
+32	4	32	30	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1988-01-01	2016-08-29	2020_dataset	30
+37	5	-5	0	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset	0
+38	5	1	1	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset	1
+39	5	3	3	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset	3
+40	5	8	7	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset	7
+41	5	14	14	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset	14
+42	5	30	30	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1991-01-01	2016-08-29	2020_dataset	30
+45	6	-6	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset	0
+46	6	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset	1
+47	6	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset	3
+48	6	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset	7
+49	6	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset	14
+50	6	31	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1988-01-01	2016-10-10	2020_dataset	30
+55	7	-6	0	Blood	1	wP	Female	Hispanic or Latino	More Than One Race	1981-01-01	2016-11-07	2020_dataset	0
+56	7	3	1	Blood	2	wP	Female	Hispanic or Latino	More Than One Race	1981-01-01	2016-11-07	2020_dataset	1
+57	7	7	3	Blood	3	wP	Female	Hispanic or Latino	More Than One Race	1981-01-01	2016-11-07	2020_dataset	3
+58	7	14	14	Blood	4	wP	Female	Hispanic or Latino	More Than One Race	1981-01-01	2016-11-07	2020_dataset	14
+59	7	30	30	Blood	5	wP	Female	Hispanic or Latino	More Than One Race	1981-01-01	2016-11-07	2020_dataset	30
+63	8	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset	0
+64	8	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset	1
+65	8	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset	3
+66	8	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset	7
+67	8	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset	14
+68	8	30	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1985-01-01	2019-02-25	2020_dataset	30
+70	9	-4	0	Blood	1	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset	0
+71	9	1	1	Blood	2	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset	1
+72	9	3	3	Blood	3	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset	3
+73	9	7	7	Blood	4	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset	7
+74	9	14	14	Blood	5	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset	14
+75	9	30	30	Blood	6	aP	Male	Not Hispanic or Latino	Asian	1996-01-01	2016-07-25	2020_dataset	30
+77	10	-4	0	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	0
+78	10	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	1
+79	10	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	3
+80	10	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	7
+81	10	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	14
+82	10	31	30	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	30
+87	11	-12	0	Blood	1	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset	0
+88	11	1	1	Blood	2	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset	1
+89	11	3	3	Blood	3	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset	3
+90	11	8	7	Blood	4	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset	7
+91	11	14	14	Blood	5	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset	14
+92	11	30	30	Blood	6	wP	Female	Hispanic or Latino	Unknown or Not Reported	1986-01-01	2016-08-29	2020_dataset	30
+96	12	-4	0	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	0
+97	12	1	1	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	1
+98	12	3	3	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	3
+99	12	7	7	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	7
+100	12	14	14	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	14
+101	12	31	30	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1982-01-01	2016-07-25	2020_dataset	30
+102	13	0	0	Blood	1	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset	0
+103	13	1	1	Blood	2	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset	1
+104	13	3	3	Blood	3	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset	3
+105	13	7	7	Blood	4	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset	7
+106	13	14	14	Blood	5	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset	14
+107	13	39	30	Blood	6	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-07-25	2020_dataset	30
+109	14	-5	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1993-01-01	2016-08-15	2020_dataset	0
+110	14	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1993-01-01	2016-08-15	2020_dataset	1
+111	14	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1993-01-01	2016-08-15	2020_dataset	3
+112	14	7	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1993-01-01	2016-08-15	2020_dataset	7
+113	14	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1993-01-01	2016-08-15	2020_dataset	14
+114	15	0	0	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset	0
+115	15	1	1	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset	1
+116	15	3	3	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset	3
+117	15	7	7	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset	7
+118	15	14	14	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset	14
+119	15	31	30	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1989-01-01	2016-08-15	2020_dataset	30
+121	16	0	0	Blood	1	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset	0
+122	16	1	1	Blood	2	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset	1
+123	16	3	3	Blood	3	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset	3
+124	16	7	7	Blood	4	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset	7
+125	16	14	14	Blood	5	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset	14
+126	16	31	30	Blood	6	wP	Female	Hispanic or Latino	Unknown or Not Reported	1987-01-01	2016-07-25	2020_dataset	30
+131	17	-40	0	Blood	1	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset	0
+132	17	1	1	Blood	2	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset	1
+133	17	3	3	Blood	3	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset	3
+134	17	7	7	Blood	4	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset	7
+135	17	14	14	Blood	5	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset	14
+136	17	38	30	Blood	6	wP	Female	Hispanic or Latino	White	1980-01-01	2016-09-12	2020_dataset	30
+138	18	-12	0	Blood	1	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset	0
+139	18	1	1	Blood	2	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset	1
+140	18	3	3	Blood	3	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset	3
+141	18	8	7	Blood	4	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset	7
+142	18	14	14	Blood	5	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset	14
+143	18	30	30	Blood	6	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2016-08-29	2020_dataset	30
+146	19	-34	0	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset	0
+147	19	1	1	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset	1
+148	19	3	3	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset	3
+149	19	7	7	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset	7
+150	19	14	14	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset	14
+151	19	30	30	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1994-01-01	2016-09-26	2020_dataset	30
+153	20	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset	0
+154	20	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset	1
+155	20	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset	3
+156	20	8	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset	7
+157	20	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset	14
+158	20	37	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1981-01-01	2016-08-29	2020_dataset	30
+160	21	0	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset	0
+161	21	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset	1
+162	21	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset	3
+163	21	8	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset	7
+164	21	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset	14
+165	21	30	30	Blood	6	wP	Male	Not Hispanic or Latino	White	1983-01-01	2016-08-29	2020_dataset	30
+167	22	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset	0
+168	22	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset	1
+169	22	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset	3
+170	22	8	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset	7
+171	22	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset	14
+172	22	30	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-08-29	2020_dataset	30
+174	23	-26	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset	0
+175	23	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset	1
+176	23	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset	3
+177	23	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset	7
+178	23	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset	14
+179	23	37	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1991-01-01	2016-09-26	2020_dataset	30
+181	24	-13	0	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset	0
+182	24	0	1	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset	1
+183	24	2	3	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset	3
+184	24	6	7	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset	7
+185	24	13	14	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset	14
+186	24	29	30	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2016-09-13	2020_dataset	30
+191	25	-6	0	Blood	1	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset	0
+192	25	0	1	Blood	2	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset	1
+193	25	2	3	Blood	3	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset	3
+194	25	6	7	Blood	4	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset	7
+195	25	13	14	Blood	5	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset	14
+196	25	55	30	Blood	6	wP	Female	Not Hispanic or Latino	Black or African American	1988-01-01	2016-09-13	2020_dataset	30
+201	26	-7	0	Blood	1	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset	0
+202	26	1	1	Blood	2	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset	1
+203	26	3	3	Blood	3	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset	3
+204	26	7	7	Blood	4	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset	7
+205	26	14	14	Blood	5	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset	14
+206	26	30	30	Blood	6	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-09-26	2020_dataset	30
+208	27	-5	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset	0
+209	27	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset	1
+210	27	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset	3
+211	27	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset	7
+212	27	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset	14
+213	27	30	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-09-26	2020_dataset	30
+216	28	-4	0	Blood	1	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset	0
+217	28	1	1	Blood	2	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset	1
+218	28	3	3	Blood	3	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset	3
+219	28	7	7	Blood	4	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset	7
+220	28	14	14	Blood	5	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset	14
+221	28	36	30	Blood	6	wP	Male	Unknown	Unknown or Not Reported	1982-01-01	2016-09-26	2020_dataset	30
+223	29	-4	0	Blood	1	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset	0
+224	29	1	1	Blood	2	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset	1
+225	29	3	3	Blood	3	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset	3
+226	29	7	7	Blood	4	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset	7
+227	29	18	14	Blood	5	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset	14
+228	29	37	30	Blood	6	aP	Male	Hispanic or Latino	White	1997-01-01	2016-09-26	2020_dataset	30
+232	30	-4	0	Blood	1	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset	0
+233	30	1	1	Blood	2	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset	1
+234	30	3	3	Blood	3	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset	3
+235	30	7	7	Blood	4	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset	7
+236	30	14	14	Blood	5	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset	14
+237	30	32	30	Blood	6	wP	Female	Hispanic or Latino	White	1988-01-01	2016-09-26	2020_dataset	30
+241	31	0	0	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset	0
+242	31	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset	1
+243	31	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset	3
+244	31	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset	7
+245	31	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset	14
+246	31	31	30	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2016-09-26	2020_dataset	30
+248	32	-19	0	Blood	1	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset	0
+249	32	1	1	Blood	2	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset	1
+250	32	3	3	Blood	3	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset	3
+251	32	7	7	Blood	4	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset	7
+252	32	16	14	Blood	5	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset	14
+253	32	30	30	Blood	6	aP	Male	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1997-01-01	2016-10-24	2020_dataset	30
+255	33	-6	0	Blood	1	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset	0
+256	33	1	1	Blood	2	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset	1
+257	33	3	3	Blood	3	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset	3
+258	33	7	7	Blood	4	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset	7
+259	33	15	14	Blood	5	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset	14
+260	33	30	30	Blood	6	wP	Male	Hispanic or Latino	More Than One Race	1990-01-01	2016-10-10	2020_dataset	30
+266	34	-18	0	Blood	1	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-10-24	2020_dataset	0
+267	34	1	1	Blood	2	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-10-24	2020_dataset	1
+268	34	3	3	Blood	3	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-10-24	2020_dataset	3
+269	34	14	14	Blood	4	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-10-24	2020_dataset	14
+270	34	30	30	Blood	5	wP	Female	Hispanic or Latino	Unknown or Not Reported	1983-01-01	2016-10-24	2020_dataset	30
+274	35	-4	0	Blood	1	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset	0
+275	35	1	1	Blood	2	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset	1
+276	35	3	3	Blood	3	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset	3
+277	35	7	7	Blood	4	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset	7
+278	35	14	14	Blood	5	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset	14
+279	35	37	30	Blood	6	wP	Male	Unknown	White	1991-01-01	2016-10-10	2020_dataset	30
+281	36	-6	0	Blood	1	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	0
+282	36	1	1	Blood	2	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	1
+283	36	3	3	Blood	3	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	3
+284	36	7	7	Blood	4	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	7
+285	36	14	14	Blood	5	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	14
+286	36	30	30	Blood	6	aP	Female	Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	30
+288	37	-20	0	Blood	1	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	0
+289	37	1	1	Blood	2	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	1
+290	37	7	7	Blood	3	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	7
+291	37	30	30	Blood	4	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	30
+293	38	-5	0	Blood	1	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	0
+294	38	1	1	Blood	2	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	1
+295	38	3	3	Blood	3	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	3
+296	38	7	7	Blood	4	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	7
+297	38	14	14	Blood	5	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	14
+298	38	36	30	Blood	6	aP	Female	Not Hispanic or Latino	White	1997-01-01	2016-10-24	2020_dataset	30
+300	39	-4	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset	0
+301	39	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset	1
+302	39	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset	3
+303	39	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset	7
+304	39	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset	14
+305	39	30	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1985-01-01	2016-10-24	2020_dataset	30
+310	40	-3	0	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset	0
+311	40	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset	1
+312	40	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset	3
+313	40	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset	7
+314	40	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset	14
+315	40	35	30	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1994-01-01	2016-10-24	2020_dataset	30
+317	41	-10	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset	0
+318	41	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset	1
+319	41	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset	3
+320	41	7	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset	7
+321	41	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset	14
+322	41	30	30	Blood	6	wP	Male	Not Hispanic or Latino	White	1985-01-01	2016-11-07	2020_dataset	30
+324	42	-6	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset	0
+325	42	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset	1
+326	42	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset	3
+327	42	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset	7
+328	42	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset	14
+329	42	30	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-07	2020_dataset	30
+332	43	-6	0	Blood	1	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	0
+333	43	1	1	Blood	2	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	1
+334	43	3	3	Blood	3	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	3
+335	43	7	7	Blood	4	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	7
+336	43	14	14	Blood	5	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	14
+337	43	32	30	Blood	6	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	30
+342	44	-5	0	Blood	1	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	0
+343	44	1	1	Blood	2	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	1
+344	44	3	3	Blood	3	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	3
+345	44	7	7	Blood	4	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	7
+346	44	14	14	Blood	5	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	14
+347	44	30	30	Blood	6	aP	Female	Hispanic or Latino	More Than One Race	1998-01-01	2016-11-07	2020_dataset	30
+349	45	-26	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	0
+350	45	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	1
+351	45	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	3
+352	45	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	7
+353	45	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	14
+355	46	-4	0	Blood	1	aP	Female	Not Hispanic or Latino	Unknown or Not Reported	1998-01-01	2016-11-07	2020_dataset	0
+356	46	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Unknown or Not Reported	1998-01-01	2016-11-07	2020_dataset	1
+357	46	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Unknown or Not Reported	1998-01-01	2016-11-07	2020_dataset	3
+358	46	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Unknown or Not Reported	1998-01-01	2016-11-07	2020_dataset	7
+359	46	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Unknown or Not Reported	1998-01-01	2016-11-07	2020_dataset	14
+360	47	-13	0	Blood	1	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset	0
+361	47	1	1	Blood	2	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset	1
+362	47	3	3	Blood	3	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset	3
+363	47	7	7	Blood	4	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset	7
+364	47	14	14	Blood	5	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset	14
+365	47	29	30	Blood	6	aP	Female	Not Hispanic or Latino	White	1996-01-01	2016-11-28	2020_dataset	30
+369	48	-63	0	Blood	1	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset	0
+370	48	1	1	Blood	2	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset	1
+371	48	7	3	Blood	3	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset	3
+372	48	7	7	Blood	4	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset	7
+373	48	14	14	Blood	5	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset	14
+374	48	36	30	Blood	6	aP	Female	Not Hispanic or Latino	White	1998-01-01	2017-01-17	2020_dataset	30
+376	49	-56	0	Blood	1	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset	0
+377	49	1	1	Blood	2	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset	1
+378	49	7	3	Blood	3	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset	3
+379	49	7	7	Blood	4	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset	7
+380	49	14	14	Blood	5	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset	14
+381	49	31	30	Blood	6	aP	Female	Not Hispanic or Latino	White	1997-01-01	2017-01-17	2020_dataset	30
+385	50	-6	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	0
+386	50	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	1
+387	50	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	3
+388	50	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	7
+389	50	15	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	14
+390	50	36	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2016-11-28	2020_dataset	30
+392	51	-6	0	Blood	1	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-11-28	2020_dataset	0
+393	51	1	1	Blood	2	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-11-28	2020_dataset	1
+394	51	3	3	Blood	3	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-11-28	2020_dataset	3
+395	51	8	7	Blood	4	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-11-28	2020_dataset	7
+396	51	14	14	Blood	5	aP	Male	Not Hispanic or Latino	White	1997-01-01	2016-11-28	2020_dataset	14
+397	52	-34	0	Blood	1	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset	0
+398	52	1	1	Blood	2	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset	1
+399	52	3	3	Blood	3	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset	3
+400	52	8	7	Blood	4	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset	7
+401	52	14	14	Blood	5	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset	14
+402	52	31	30	Blood	6	aP	Male	Not Hispanic or Latino	More Than One Race	1998-01-01	2017-01-03	2020_dataset	30
+405	53	-28	0	Blood	1	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset	0
+406	53	1	1	Blood	2	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset	1
+407	53	3	3	Blood	3	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset	3
+408	53	8	7	Blood	4	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset	7
+409	53	14	14	Blood	5	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset	14
+410	53	31	30	Blood	6	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2017-01-03	2020_dataset	30
+412	54	-36	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	0
+413	54	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	1
+414	54	7	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	3
+415	54	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	7
+416	54	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	14
+417	54	42	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	30
+419	55	-8	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	0
+420	55	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	1
+421	55	7	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	3
+422	55	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	7
+423	55	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	14
+424	55	31	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-17	2020_dataset	30
+427	56	-18	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset	0
+428	56	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset	1
+429	56	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset	3
+430	56	8	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset	7
+431	56	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset	14
+432	56	29	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2017-01-30	2020_dataset	30
+434	57	-6	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset	0
+435	57	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset	1
+436	57	4	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset	3
+437	57	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset	7
+438	57	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset	14
+439	57	30	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1996-01-01	2017-01-30	2020_dataset	30
+441	58	-5	0	Blood	1	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset	0
+442	58	1	1	Blood	2	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset	1
+443	58	3	3	Blood	3	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset	3
+444	58	7	7	Blood	4	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset	7
+445	58	14	14	Blood	5	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset	14
+446	58	29	30	Blood	6	aP	Female	Hispanic or Latino	Unknown or Not Reported	1997-01-01	2017-01-30	2020_dataset	30
+450	59	-5	0	Blood	1	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset	0
+451	59	1	1	Blood	2	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset	1
+452	59	3	3	Blood	3	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset	3
+453	59	7	7	Blood	4	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset	7
+454	59	14	14	Blood	5	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset	14
+455	59	29	30	Blood	6	aP	Female	Hispanic or Latino	More Than One Race	1997-01-01	2017-01-30	2020_dataset	30
+458	60	-4	0	Blood	1	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset	0
+459	60	1	1	Blood	2	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset	1
+460	60	3	3	Blood	3	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset	3
+461	60	7	7	Blood	4	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset	7
+462	60	14	14	Blood	5	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset	14
+463	60	29	30	Blood	6	aP	Male	Hispanic or Latino	White	1997-01-01	2017-01-30	2020_dataset	30
+468	61	-4	0	Blood	1	wP	Female	Not Hispanic or Latino	Unknown or Not Reported	1987-01-01	2019-04-08	2021_dataset	0
+469	61	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Unknown or Not Reported	1987-01-01	2019-04-08	2021_dataset	1
+470	61	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Unknown or Not Reported	1987-01-01	2019-04-08	2021_dataset	3
+471	61	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Unknown or Not Reported	1987-01-01	2019-04-08	2021_dataset	7
+472	61	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Unknown or Not Reported	1987-01-01	2019-04-08	2021_dataset	14
+473	61	30	30	Blood	6	wP	Female	Not Hispanic or Latino	Unknown or Not Reported	1987-01-01	2019-04-08	2021_dataset	30
+475	62	0	0	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	0
+476	62	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	1
+477	62	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	3
+478	62	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	7
+479	62	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	14
+480	62	30	30	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	30
+483	63	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1995-01-01	2018-11-26	2021_dataset	0
+484	63	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1995-01-01	2018-11-26	2021_dataset	1
+485	63	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1995-01-01	2018-11-26	2021_dataset	3
+486	63	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1995-01-01	2018-11-26	2021_dataset	7
+487	63	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1995-01-01	2018-11-26	2021_dataset	14
+488	63	38	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1995-01-01	2018-11-26	2021_dataset	30
+490	64	0	0	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	0
+491	64	1	1	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	1
+492	64	3	3	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	3
+493	64	7	7	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	7
+494	64	14	14	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	14
+495	64	30	30	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1993-01-01	2018-11-26	2021_dataset	30
+498	65	0	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1990-01-01	2018-12-03	2021_dataset	0
+499	65	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1990-01-01	2018-12-03	2021_dataset	1
+500	65	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1990-01-01	2018-12-03	2021_dataset	3
+501	65	7	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1990-01-01	2018-12-03	2021_dataset	7
+502	65	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1990-01-01	2018-12-03	2021_dataset	14
+503	65	37	30	Blood	6	wP	Male	Not Hispanic or Latino	White	1990-01-01	2018-12-03	2021_dataset	30
+506	66	0	0	Blood	1	wP	Female	Not Hispanic or Latino	Black or African American	1976-01-01	2018-12-03	2021_dataset	0
+507	66	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Black or African American	1976-01-01	2018-12-03	2021_dataset	1
+508	66	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Black or African American	1976-01-01	2018-12-03	2021_dataset	3
+509	66	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Black or African American	1976-01-01	2018-12-03	2021_dataset	7
+510	66	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Black or African American	1976-01-01	2018-12-03	2021_dataset	14
+511	66	31	30	Blood	6	wP	Female	Not Hispanic or Latino	Black or African American	1976-01-01	2018-12-03	2021_dataset	30
+513	67	0	0	Blood	1	wP	Female	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	0
+514	67	1	1	Blood	2	wP	Female	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	1
+515	67	3	3	Blood	3	wP	Female	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	3
+516	67	7	7	Blood	4	wP	Female	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	7
+517	67	14	14	Blood	5	wP	Female	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	14
+518	67	30	30	Blood	6	wP	Female	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	30
+521	68	0	0	Blood	1	wP	Male	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	0
+522	68	1	1	Blood	2	wP	Male	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	1
+523	68	3	3	Blood	3	wP	Male	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	3
+524	68	7	7	Blood	4	wP	Male	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	7
+525	68	14	14	Blood	5	wP	Male	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	14
+526	68	30	30	Blood	6	wP	Male	Hispanic or Latino	White	1972-01-01	2019-01-28	2021_dataset	30
+529	69	0	0	Blood	1	wP	Female	Hispanic or Latino	White	1990-01-01	2019-01-28	2021_dataset	0
+530	69	1	1	Blood	2	wP	Female	Hispanic or Latino	White	1990-01-01	2019-01-28	2021_dataset	1
+531	69	3	3	Blood	3	wP	Female	Hispanic or Latino	White	1990-01-01	2019-01-28	2021_dataset	3
+532	69	7	7	Blood	4	wP	Female	Hispanic or Latino	White	1990-01-01	2019-01-28	2021_dataset	7
+533	69	14	14	Blood	5	wP	Female	Hispanic or Latino	White	1990-01-01	2019-01-28	2021_dataset	14
+534	69	32	30	Blood	6	wP	Female	Hispanic or Latino	White	1990-01-01	2019-01-28	2021_dataset	30
+537	70	0	0	Blood	1	aP	Male	Not Hispanic or Latino	American Indian/Alaska Native	1998-01-01	2019-01-28	2021_dataset	0
+538	70	1	1	Blood	2	aP	Male	Not Hispanic or Latino	American Indian/Alaska Native	1998-01-01	2019-01-28	2021_dataset	1
+539	70	3	3	Blood	3	aP	Male	Not Hispanic or Latino	American Indian/Alaska Native	1998-01-01	2019-01-28	2021_dataset	3
+540	70	7	7	Blood	4	aP	Male	Not Hispanic or Latino	American Indian/Alaska Native	1998-01-01	2019-01-28	2021_dataset	7
+541	70	14	14	Blood	5	aP	Male	Not Hispanic or Latino	American Indian/Alaska Native	1998-01-01	2019-01-28	2021_dataset	14
+542	70	32	30	Blood	6	aP	Male	Not Hispanic or Latino	American Indian/Alaska Native	1998-01-01	2019-01-28	2021_dataset	30
+546	71	0	0	Blood	1	aP	Female	Not Hispanic or Latino	White	1998-01-01	2019-01-28	2021_dataset	0
+547	71	1	1	Blood	2	aP	Female	Not Hispanic or Latino	White	1998-01-01	2019-01-28	2021_dataset	1
+548	71	3	3	Blood	3	aP	Female	Not Hispanic or Latino	White	1998-01-01	2019-01-28	2021_dataset	3
+549	71	7	7	Blood	4	aP	Female	Not Hispanic or Latino	White	1998-01-01	2019-01-28	2021_dataset	7
+550	71	14	14	Blood	5	aP	Female	Not Hispanic or Latino	White	1998-01-01	2019-01-28	2021_dataset	14
+551	71	37	30	Blood	6	aP	Female	Not Hispanic or Latino	White	1998-01-01	2019-01-28	2021_dataset	30
+554	72	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1991-01-01	2019-02-25	2021_dataset	0
+555	72	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1991-01-01	2019-02-25	2021_dataset	1
+556	72	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1991-01-01	2019-02-25	2021_dataset	3
+557	72	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1991-01-01	2019-02-25	2021_dataset	7
+558	72	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1991-01-01	2019-02-25	2021_dataset	14
+559	72	29	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1991-01-01	2019-02-25	2021_dataset	30
+562	73	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	0
+563	73	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	1
+564	73	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	3
+565	73	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	7
+566	73	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	14
+567	73	37	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	30
+569	74	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	0
+570	74	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	1
+571	74	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	3
+572	74	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	7
+573	74	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	14
+574	74	29	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1995-01-01	2019-02-25	2021_dataset	30
+577	75	0	0	Blood	1	aP	Female	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1998-01-01	2019-02-25	2021_dataset	0
+578	75	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1998-01-01	2019-02-25	2021_dataset	1
+579	75	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1998-01-01	2019-02-25	2021_dataset	3
+580	75	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1998-01-01	2019-02-25	2021_dataset	7
+581	75	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1998-01-01	2019-02-25	2021_dataset	14
+582	75	29	30	Blood	6	aP	Female	Not Hispanic or Latino	Native Hawaiian or Other Pacific Islander	1998-01-01	2019-02-25	2021_dataset	30
+585	76	0	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-02-25	2021_dataset	0
+586	76	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-02-25	2021_dataset	1
+587	76	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-02-25	2021_dataset	3
+588	76	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-02-25	2021_dataset	7
+589	76	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-02-25	2021_dataset	14
+590	76	30	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-02-25	2021_dataset	30
+593	77	0	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1988-01-01	2019-03-18	2021_dataset	0
+594	77	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1988-01-01	2019-03-18	2021_dataset	1
+595	77	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1988-01-01	2019-03-18	2021_dataset	3
+596	77	7	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1988-01-01	2019-03-18	2021_dataset	7
+597	77	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1988-01-01	2019-03-18	2021_dataset	14
+598	77	31	30	Blood	6	wP	Male	Not Hispanic or Latino	White	1988-01-01	2019-03-18	2021_dataset	30
+601	78	0	0	Blood	1	wP	Female	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	0
+602	78	1	1	Blood	2	wP	Female	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	1
+603	78	3	3	Blood	3	wP	Female	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	3
+604	78	7	7	Blood	4	wP	Female	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	7
+605	78	14	14	Blood	5	wP	Female	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	14
+606	78	31	30	Blood	6	wP	Female	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	30
+608	79	0	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1987-01-01	2019-03-18	2021_dataset	0
+609	79	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1987-01-01	2019-03-18	2021_dataset	1
+610	79	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1987-01-01	2019-03-18	2021_dataset	3
+611	79	7	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1987-01-01	2019-03-18	2021_dataset	7
+612	79	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1987-01-01	2019-03-18	2021_dataset	14
+613	79	31	30	Blood	6	wP	Male	Not Hispanic or Latino	White	1987-01-01	2019-03-18	2021_dataset	30
+616	80	0	0	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2019-03-18	2021_dataset	0
+617	80	1	1	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2019-03-18	2021_dataset	1
+618	80	3	3	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2019-03-18	2021_dataset	3
+619	80	7	7	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2019-03-18	2021_dataset	7
+620	80	14	14	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2019-03-18	2021_dataset	14
+621	80	31	30	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1992-01-01	2019-03-18	2021_dataset	30
+623	81	0	0	Blood	1	wP	Male	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	0
+624	81	1	1	Blood	2	wP	Male	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	1
+625	81	3	3	Blood	3	wP	Male	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	3
+626	81	7	7	Blood	4	wP	Male	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	7
+627	81	14	14	Blood	5	wP	Male	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	14
+628	81	36	30	Blood	6	wP	Male	Not Hispanic or Latino	White	1993-01-01	2019-03-18	2021_dataset	30
+630	82	0	0	Blood	1	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2019-03-18	2021_dataset	0
+631	82	1	1	Blood	2	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2019-03-18	2021_dataset	1
+632	82	3	3	Blood	3	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2019-03-18	2021_dataset	3
+633	82	7	7	Blood	4	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2019-03-18	2021_dataset	7
+634	82	14	14	Blood	5	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2019-03-18	2021_dataset	14
+635	82	32	30	Blood	6	aP	Female	Not Hispanic or Latino	More Than One Race	1998-01-01	2019-03-18	2021_dataset	30
+636	83	0	0	Blood	1	aP	Female	Not Hispanic or Latino	White	1999-01-01	2019-04-08	2021_dataset	0
+637	83	1	1	Blood	2	aP	Female	Not Hispanic or Latino	White	1999-01-01	2019-04-08	2021_dataset	1
+638	83	3	3	Blood	3	aP	Female	Not Hispanic or Latino	White	1999-01-01	2019-04-08	2021_dataset	3
+639	83	7	7	Blood	4	aP	Female	Not Hispanic or Latino	White	1999-01-01	2019-04-08	2021_dataset	7
+640	83	14	14	Blood	5	aP	Female	Not Hispanic or Latino	White	1999-01-01	2019-04-08	2021_dataset	14
+641	83	30	30	Blood	6	aP	Female	Not Hispanic or Latino	White	1999-01-01	2019-04-08	2021_dataset	30
+643	84	0	0	Blood	1	aP	Female	Not Hispanic or Latino	More Than One Race	1997-01-01	2019-04-08	2021_dataset	0
+644	84	1	1	Blood	2	aP	Female	Not Hispanic or Latino	More Than One Race	1997-01-01	2019-04-08	2021_dataset	1
+645	84	3	3	Blood	3	aP	Female	Not Hispanic or Latino	More Than One Race	1997-01-01	2019-04-08	2021_dataset	3
+646	84	7	7	Blood	4	aP	Female	Not Hispanic or Latino	More Than One Race	1997-01-01	2019-04-08	2021_dataset	7
+647	84	15	14	Blood	5	aP	Female	Not Hispanic or Latino	More Than One Race	1997-01-01	2019-04-08	2021_dataset	14
+648	84	28	30	Blood	6	aP	Female	Not Hispanic or Latino	More Than One Race	1997-01-01	2019-04-08	2021_dataset	30
+650	85	0	0	Blood	1	aP	Female	Hispanic or Latino	White	2000-01-01	2019-04-29	2021_dataset	0
+651	85	1	1	Blood	2	aP	Female	Hispanic or Latino	White	2000-01-01	2019-04-29	2021_dataset	1
+652	85	3	3	Blood	3	aP	Female	Hispanic or Latino	White	2000-01-01	2019-04-29	2021_dataset	3
+653	85	7	7	Blood	4	aP	Female	Hispanic or Latino	White	2000-01-01	2019-04-29	2021_dataset	7
+654	85	14	14	Blood	5	aP	Female	Hispanic or Latino	White	2000-01-01	2019-04-29	2021_dataset	14
+655	85	30	30	Blood	6	aP	Female	Hispanic or Latino	White	2000-01-01	2019-04-29	2021_dataset	30
+657	86	0	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-04-29	2021_dataset	0
+658	86	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-04-29	2021_dataset	1
+659	86	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-04-29	2021_dataset	3
+660	86	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-04-29	2021_dataset	7
+661	86	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-04-29	2021_dataset	14
+662	86	30	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2019-04-29	2021_dataset	30
+664	87	0	0	Blood	1	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	0
+665	87	1	1	Blood	2	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	1
+666	87	3	3	Blood	3	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	3
+667	87	7	7	Blood	4	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	7
+668	87	14	14	Blood	5	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	14
+669	88	0	0	Blood	1	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	0
+670	88	1	1	Blood	2	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	1
+671	88	3	3	Blood	3	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	3
+672	88	7	7	Blood	4	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	7
+673	88	14	14	Blood	5	aP	Male	Not Hispanic or Latino	Asian	2000-01-01	2019-04-29	2021_dataset	14
+674	89	0	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2019-06-03	2021_dataset	0
+675	89	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2019-06-03	2021_dataset	1
+676	89	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2019-06-03	2021_dataset	3
+677	89	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2019-06-03	2021_dataset	7
+678	89	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2019-06-03	2021_dataset	14
+679	89	29	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1997-01-01	2019-06-03	2021_dataset	30
+681	90	0	0	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1999-01-01	2019-06-03	2021_dataset	0
+682	90	1	1	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1999-01-01	2019-06-03	2021_dataset	1
+683	90	3	3	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1999-01-01	2019-06-03	2021_dataset	3
+684	90	7	7	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1999-01-01	2019-06-03	2021_dataset	7
+685	90	14	14	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1999-01-01	2019-06-03	2021_dataset	14
+686	90	29	30	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1999-01-01	2019-06-03	2021_dataset	30
+688	91	0	0	Blood	1	aP	Male	Unknown	Unknown or Not Reported	1998-01-01	2019-06-03	2021_dataset	0
+689	91	1	1	Blood	2	aP	Male	Unknown	Unknown or Not Reported	1998-01-01	2019-06-03	2021_dataset	1
+690	91	3	3	Blood	3	aP	Male	Unknown	Unknown or Not Reported	1998-01-01	2019-06-03	2021_dataset	3
+691	91	7	7	Blood	4	aP	Male	Unknown	Unknown or Not Reported	1998-01-01	2019-06-03	2021_dataset	7
+692	91	14	14	Blood	5	aP	Male	Unknown	Unknown or Not Reported	1998-01-01	2019-06-03	2021_dataset	14
+693	91	37	30	Blood	6	aP	Male	Unknown	Unknown or Not Reported	1998-01-01	2019-06-03	2021_dataset	30
+695	92	0	0	Blood	1	aP	Female	Hispanic or Latino	White	2000-01-01	2019-06-24	2021_dataset	0
+696	92	1	1	Blood	2	aP	Female	Hispanic or Latino	White	2000-01-01	2019-06-24	2021_dataset	1
+697	92	3	3	Blood	3	aP	Female	Hispanic or Latino	White	2000-01-01	2019-06-24	2021_dataset	3
+698	92	7	7	Blood	4	aP	Female	Hispanic or Latino	White	2000-01-01	2019-06-24	2021_dataset	7
+699	92	14	14	Blood	5	aP	Female	Hispanic or Latino	White	2000-01-01	2019-06-24	2021_dataset	14
+700	92	30	30	Blood	6	aP	Female	Hispanic or Latino	White	2000-01-01	2019-06-24	2021_dataset	30
+702	93	0	0	Blood	1	aP	Female	Not Hispanic or Latino	More Than One Race	1996-01-01	2019-06-24	2021_dataset	0
+703	93	1	1	Blood	2	aP	Female	Not Hispanic or Latino	More Than One Race	1996-01-01	2019-06-24	2021_dataset	1
+704	93	3	3	Blood	3	aP	Female	Not Hispanic or Latino	More Than One Race	1996-01-01	2019-06-24	2021_dataset	3
+705	93	7	7	Blood	4	aP	Female	Not Hispanic or Latino	More Than One Race	1996-01-01	2019-06-24	2021_dataset	7
+706	93	14	14	Blood	5	aP	Female	Not Hispanic or Latino	More Than One Race	1996-01-01	2019-06-24	2021_dataset	14
+707	93	30	30	Blood	6	aP	Female	Not Hispanic or Latino	More Than One Race	1996-01-01	2019-06-24	2021_dataset	30
+709	94	0	0	Blood	1	aP	Male	Not Hispanic or Latino	Unknown or Not Reported	1999-01-01	2019-06-24	2021_dataset	0
+710	94	1	1	Blood	2	aP	Male	Not Hispanic or Latino	Unknown or Not Reported	1999-01-01	2019-06-24	2021_dataset	1
+711	94	3	3	Blood	3	aP	Male	Not Hispanic or Latino	Unknown or Not Reported	1999-01-01	2019-06-24	2021_dataset	3
+712	94	7	7	Blood	4	aP	Male	Not Hispanic or Latino	Unknown or Not Reported	1999-01-01	2019-06-24	2021_dataset	7
+713	94	14	14	Blood	5	aP	Male	Not Hispanic or Latino	Unknown or Not Reported	1999-01-01	2019-06-24	2021_dataset	14
+714	94	30	30	Blood	6	aP	Male	Not Hispanic or Latino	Unknown or Not Reported	1999-01-01	2019-06-24	2021_dataset	30
+716	95	0	0	Blood	1	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2019-06-24	2021_dataset	0
+717	95	1	1	Blood	2	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2019-06-24	2021_dataset	1
+718	95	3	3	Blood	3	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2019-06-24	2021_dataset	3
+719	95	7	7	Blood	4	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2019-06-24	2021_dataset	7
+720	95	14	14	Blood	5	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2019-06-24	2021_dataset	14
+721	95	30	30	Blood	6	aP	Female	Hispanic or Latino	Unknown or Not Reported	1998-01-01	2019-06-24	2021_dataset	30
+723	96	0	0	Blood	1	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2019-06-24	2021_dataset	0
+724	96	1	1	Blood	2	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2019-06-24	2021_dataset	1
+725	96	3	3	Blood	3	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2019-06-24	2021_dataset	3
+726	96	7	7	Blood	4	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2019-06-24	2021_dataset	7
+727	96	14	14	Blood	5	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2019-06-24	2021_dataset	14
+728	96	30	30	Blood	6	aP	Male	Hispanic or Latino	Unknown or Not Reported	2000-01-01	2019-06-24	2021_dataset	30
+730	97	-31	-30	Blood	1	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	-30
+731	97	-12	-15	Blood	2	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	-15
+732	97	0	0	Blood	3	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	0
+733	97	1	1	Blood	4	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	1
+734	97	3	3	Blood	5	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	3
+735	97	7	7	Blood	6	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	7
+736	97	14	14	Blood	7	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	14
+737	97	29	30	Blood	8	wP	Male	Not Hispanic or Latino	White	1986-01-01	2021-11-29	2022_dataset	30
+740	98	-31	-30	Blood	3	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	-30
+741	98	-14	-15	Blood	4	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	-15
+742	98	0	0	Blood	5	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	0
+743	98	1	1	Blood	6	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	1
+744	98	3	3	Blood	7	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	3
+745	98	7	7	Blood	8	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	7
+746	98	14	14	Blood	9	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	14
+747	98	29	30	Blood	10	wP	Female	Not Hispanic or Latino	White	1993-01-01	2021-09-27	2022_dataset	30
+750	99	-26	-30	Blood	3	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	-30
+751	99	-15	-15	Blood	4	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	-15
+752	99	0	0	Blood	5	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	0
+753	99	1	1	Blood	6	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	1
+754	99	3	3	Blood	7	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	3
+755	99	7	7	Blood	8	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	7
+756	99	14	14	Blood	9	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	14
+757	99	38	30	Blood	10	aP	Female	Hispanic or Latino	Unknown or Not Reported	1999-01-01	2021-09-07	2022_dataset	30
+760	100	-31	-30	Blood	3	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	-30
+761	100	-14	-15	Blood	4	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	-15
+762	100	0	0	Blood	5	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	0
+763	100	1	1	Blood	6	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	1
+764	100	3	3	Blood	7	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	3
+765	100	7	7	Blood	8	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	7
+766	100	15	14	Blood	9	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	14
+767	100	29	30	Blood	10	aP	Female	Not Hispanic or Latino	White	2001-01-01	2021-11-01	2022_dataset	30
+770	101	-31	-30	Blood	1	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	-30
+771	101	-14	-15	Blood	2	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	-15
+772	101	0	0	Blood	3	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	0
+773	101	1	1	Blood	4	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	1
+774	101	3	3	Blood	5	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	3
+775	101	7	7	Blood	6	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	7
+776	101	14	14	Blood	7	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	14
+777	101	29	30	Blood	8	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	30
+780	102	-31	-30	Blood	1	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	-30
+781	102	-14	-15	Blood	2	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	-15
+782	102	0	0	Blood	3	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	0
+783	102	1	1	Blood	4	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	1
+784	102	3	3	Blood	5	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	3
+785	102	7	7	Blood	6	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	7
+786	102	14	14	Blood	7	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	14
+787	102	29	30	Blood	8	aP	Male	Not Hispanic or Latino	White	2003-01-01	2021-11-01	2022_dataset	30
+790	103	-32	-30	Blood	1	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	-30
+791	103	-15	-15	Blood	2	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	-15
+792	103	0	0	Blood	3	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	0
+793	103	1	1	Blood	4	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	1
+794	103	3	3	Blood	5	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	3
+795	103	7	7	Blood	6	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	7
+796	103	14	14	Blood	7	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	14
+797	103	30	30	Blood	8	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	30
+800	104	-32	-30	Blood	1	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	-30
+801	104	-15	-15	Blood	2	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	-15
+802	104	0	0	Blood	3	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	0
+803	104	1	1	Blood	4	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	1
+804	104	3	3	Blood	5	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	3
+805	104	7	7	Blood	6	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	7
+806	104	14	14	Blood	7	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	14
+807	104	30	30	Blood	8	wP	Female	Not Hispanic or Latino	Asian	1989-01-01	2021-09-07	2022_dataset	30
+809	105	-32	-30	Blood	1	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	-30
+810	105	-15	-15	Blood	2	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	-15
+811	105	0	0	Blood	3	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	0
+812	105	1	1	Blood	4	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	1
+813	105	3	3	Blood	5	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	3
+814	105	7	7	Blood	6	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	7
+815	105	14	14	Blood	7	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	14
+816	105	30	30	Blood	8	wP	Female	Not Hispanic or Latino	White	1994-01-01	2021-09-07	2022_dataset	30
+819	106	-30	-30	Blood	2	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	-30
+820	106	-15	-15	Blood	2	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	-15
+821	106	0	0	Blood	3	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	0
+822	106	1	1	Blood	4	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	1
+823	106	3	3	Blood	5	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	3
+824	106	7	7	Blood	6	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	7
+825	106	14	14	Blood	7	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	14
+826	106	30	30	Blood	8	aP	Female	Not Hispanic or Latino	White	1996-01-01	2021-09-07	2022_dataset	30
+829	107	-28	-30	Blood	1	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	-30
+830	107	-15	-15	Blood	2	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	-15
+831	107	0	0	Blood	3	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	0
+832	107	1	1	Blood	4	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	1
+833	107	3	3	Blood	5	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	3
+834	107	8	7	Blood	6	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	7
+835	107	14	14	Blood	7	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	14
+836	107	29	30	Blood	8	aP	Female	Not Hispanic or Latino	Asian	1998-01-01	2021-09-07	2022_dataset	30
+839	108	-32	-30	Blood	1	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	-30
+840	108	-14	-15	Blood	2	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	-15
+841	108	0	0	Blood	3	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	0
+842	108	1	1	Blood	4	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	1
+843	108	3	3	Blood	5	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	3
+844	108	7	7	Blood	6	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	7
+845	108	14	14	Blood	7	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	14
+846	108	29	30	Blood	8	wP	Female	Not Hispanic or Latino	White	1995-01-01	2021-09-27	2022_dataset	30
+849	109	-31	-30	Blood	1	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	-30
+850	109	-14	-15	Blood	2	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	-15
+851	109	0	0	Blood	3	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	0
+852	109	1	1	Blood	4	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	1
+853	109	3	3	Blood	5	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	3
+854	109	7	7	Blood	6	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	7
+855	109	14	14	Blood	7	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	14
+856	109	29	30	Blood	8	wP	Female	Not Hispanic or Latino	White	1989-01-01	2021-09-27	2022_dataset	30
+859	110	-31	-30	Blood	1	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	-30
+860	110	-14	-15	Blood	2	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	-15
+861	110	0	0	Blood	3	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	0
+862	110	1	1	Blood	4	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	1
+863	110	4	3	Blood	5	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	3
+864	110	7	7	Blood	6	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	7
+865	110	14	14	Blood	7	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	14
+866	110	29	30	Blood	8	aP	Female	Hispanic or Latino	White	1997-01-01	2021-09-27	2022_dataset	30
+869	111	-31	-30	Blood	1	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	-30
+870	111	-14	-15	Blood	2	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	-15
+871	111	0	0	Blood	3	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	0
+872	111	1	1	Blood	4	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	1
+873	111	3	3	Blood	5	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	3
+874	111	7	7	Blood	6	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	7
+875	111	14	14	Blood	7	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	14
+876	111	29	30	Blood	8	wP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	30
+879	112	-31	-30	Blood	1	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	-30
+881	112	-13	-15	Blood	2	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	-15
+882	112	0	0	Blood	3	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	0
+883	112	1	1	Blood	4	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	1
+884	112	3	3	Blood	5	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	3
+885	112	7	7	Blood	6	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	7
+886	112	15	14	Blood	7	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	14
+887	112	29	30	Blood	8	aP	Male	Not Hispanic or Latino	White	1996-01-01	2021-10-18	2022_dataset	30
+890	114	-31	-30	Blood	1	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	-30
+891	114	-14	-15	Blood	2	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	-15
+892	114	0	0	Blood	3	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	0
+893	114	1	1	Blood	4	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	1
+894	114	3	3	Blood	5	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	3
+895	114	7	7	Blood	6	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	7
+896	114	14	14	Blood	7	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	14
+897	114	29	30	Blood	8	wP	Male	Not Hispanic or Latino	Asian	1990-01-01	2021-10-18	2022_dataset	30
+900	115	-32	-30	Blood	1	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	-30
+901	115	-13	-15	Blood	2	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	-15
+902	115	0	0	Blood	3	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	0
+903	115	1	1	Blood	4	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	1
+904	115	3	3	Blood	5	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	3
+905	115	7	7	Blood	6	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	7
+906	115	14	14	Blood	7	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	14
+907	115	29	30	Blood	8	aP	Female	Not Hispanic or Latino	Asian	2002-01-01	2021-11-01	2022_dataset	30
+910	116	-31	-30	Blood	1	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	-30
+911	116	-14	-15	Blood	2	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	-15
+912	116	0	0	Blood	3	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	0
+913	116	1	1	Blood	4	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	1
+914	116	3	3	Blood	5	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	3
+915	116	7	7	Blood	6	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	7
+916	116	11	14	Blood	7	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	14
+917	116	31	30	Blood	8	aP	Male	Not Hispanic or Latino	White	2000-01-01	2021-11-29	2022_dataset	30
+920	117	-31	-30	Blood	1	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	-30
+921	117	-13	-15	Blood	2	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	-15
+922	117	0	0	Blood	3	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	0
+923	117	1	1	Blood	4	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	1
+924	117	3	3	Blood	5	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	3
+925	117	7	7	Blood	6	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	7
+926	117	14	14	Blood	7	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	14
+927	117	45	30	Blood	8	aP	Female	Hispanic or Latino	More Than One Race	1994-01-01	2021-11-29	2022_dataset	30
+930	118	-52	-30	Blood	1	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	-30
+931	118	-38	-15	Blood	2	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	-15
+932	118	0	0	Blood	3	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	0
+933	118	1	1	Blood	4	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	1
+934	118	3	3	Blood	5	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	3
+935	118	7	7	Blood	6	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	7
+936	118	14	14	Blood	7	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	14
+937	118	30	30	Blood	8	aP	Male	Not Hispanic or Latino	Asian	1998-01-01	2022-01-24	2022_dataset	30
