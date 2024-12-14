@@ -1,10 +1,8 @@
 import pandas as pd
-import numpy as np
 from sklearn import model_selection
 from sklearn import metrics
 from sklearn.feature_selection import SelectKBest, r_regression
 from sklearn.svm import SVR
-from sys import exit
 from scipy.stats import spearmanr
 
 
