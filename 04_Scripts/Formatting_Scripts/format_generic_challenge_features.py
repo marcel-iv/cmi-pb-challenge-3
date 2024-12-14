@@ -2,7 +2,8 @@ import pandas as pd
 from datetime import datetime
 
 # constants
-data_dir = "../00_data/master_harmonized_data_TSV/"
+data_dir = "../../03_Data/harmonized/"
+demographic_dir = "../../03_Data/demographic/"
 crt_year = datetime.now().year
 
 # read convert
@@ -23,7 +24,7 @@ def mergeAssay(df1, df2):
     return df
 
 # import datasets
-data_demographic = pd.read_csv(data_dir + "challenge_subject_specimen.tsv", sep="\t")
+data_demographic = pd.read_csv(demographic_dir + "challenge_subject_specimen.tsv", sep="\t")
 
 # format dataset
 data_demographic = data_demographic[["subject_id", "specimen_id", "planned_day_relative_to_boost", "infancy_vac", "biological_sex", "year_of_birth"]]
@@ -48,4 +49,5 @@ data = mergeAssay(data, df_cytokine)
 data = data.loc[data["planned_day_relative_to_boost"] == 0]
 
 # write to tsv
+
 data.to_csv("../../03_Data/challenge_IgG_PBMC_cytokine.tsv", sep="\t", index=False)

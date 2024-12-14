@@ -2,8 +2,8 @@ import pandas as pd
 from datetime import datetime
 
 # constants
-data_dir = "../00_data/master_allData_batchCorrected_TSV/"
-demographic_data_dir = "../00_data/master_harmonized_data_TSV/"
+data_dir = "../../03_Data/batchCorrected/"
+demographic_data_dir = "../../03_Data/demographic/"
 crt_year = datetime.now().year
 
 # read convert
