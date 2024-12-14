@@ -83,7 +83,7 @@ def fold_change(value1, value2):
     log_change = math.log2(ratio)
     return log_change
 
-challenge_data = pd.read_csv("/home/dukaan/challenge_environment/Prediction_Challenge_Data/challenge_IgG_PBMC_cytokine.tsv", sep="\t")
+challenge_data = pd.read_csv("../../03_Data/challenge_IgG_PBMC_cytokine.tsv", sep="\t")
 feature_list = challenge_data.columns.to_list()[3:]
 print(feature_list)
 
